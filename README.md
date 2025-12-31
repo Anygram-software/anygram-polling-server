@@ -8,7 +8,7 @@
 
 
 ```bash
-git clone https://github.com/Anygram-software/anygram-webhook-server.git
+git clone https://github.com/Anygram-software/anygram-polling-server.git
 ```
 
 Установка зависимостей.
