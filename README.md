@@ -11,6 +11,10 @@
 git clone https://github.com/Anygram-software/anygram-polling-server.git
 ```
 
+```bash
+cd anygram-polling-server
+```
+
 Установка зависимостей.
 В репозитории есть requirements.txt и pyproject.toml, можно ставить так:
 
